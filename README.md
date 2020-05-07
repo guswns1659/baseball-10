@@ -43,13 +43,13 @@
 - 
 
 # 어려움과 해결책
-## 5.1 어려움 : DB 설계 시 객체 간 N:M 관계 설정 
-- 문제 : N:M 관계를 갖는 객체들을 DB에서 insert하고 select할 때 어려움을 겪음. 
-- 해결책 : 현재 이해안되는 N:M 대신 1:N 관계로 설정. 
+## 5.1 어려움 : 사용자 동시 접속 구현 
+- 문제 : 혼자하는 야구게임이 아니라 사용자 2명이 진행하는 게임을 구현하는 방법
+- 해결책 :  
 
 
 ## 프로젝트 피드백
  
 
 ## Api 문서 
-[Api 문서](https://github.com/codesquad-member-2020/sidedish-04/wiki/Api-Docs)
+[Api 문서](https://github.com/codesquad-member-2020/baseball-10/wiki/API-%EB%AC%B8%EC%84%9C)
